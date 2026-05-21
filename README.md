@@ -35,7 +35,11 @@ The project was built using a Star Schema data model with multiple dimension tab
 ---
 
 # 🧩 Data Model
-The project follows a Star Schema design.
+## Star Schema Design
+
+The dashboard was built using a Star Schema data model to optimize performance and simplify analytical reporting.
+
+![Star Schema](star-schema.png)
 
 ## Fact Table
 ### fact_tickets
