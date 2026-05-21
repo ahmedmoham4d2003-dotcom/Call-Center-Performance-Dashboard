@@ -183,7 +183,7 @@ Monitors:
 ---
 
 ## Operations Control Center
-![Operations Control Center](operations-conreol-center.png)
+![Operations Control Center](operations-control-center.png)
 
 ---
 
