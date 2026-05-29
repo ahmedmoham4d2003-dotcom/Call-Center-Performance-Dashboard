@@ -1,6 +1,6 @@
-# 📞 Call Center Performance Dashboard
+#  Call Center Performance Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 An interactive Power BI dashboard designed to analyze and monitor call center operations using over 600,000 records.
 
 The dashboard provides deep insights into:
@@ -15,7 +15,7 @@ The project was built using a Star Schema data model with multiple dimension tab
 
 ---
 
-# 🎯 Business Objectives
+#  Business Objectives
 - Monitor overall call center performance
 - Analyze customer satisfaction and complaint trends
 - Evaluate agent productivity and efficiency
@@ -25,7 +25,7 @@ The project was built using a Star Schema data model with multiple dimension tab
 
 ---
 
-# 🛠️ Tools & Technologies
+#  Tools & Technologies
 - Power BI
 - Power Query
 - DAX
@@ -34,7 +34,7 @@ The project was built using a Star Schema data model with multiple dimension tab
 
 ---
 
-# 🧩 Data Model
+#  Data Model
 ## Star Schema Design
 
 The dashboard was built using a Star Schema data model to optimize performance and simplify analytical reporting.
@@ -74,7 +74,7 @@ Contains transactional ticket-level data including:
 
 ---
 
-# 🧹 Data Preparation
+#  Data Preparation
 Performed extensive data cleaning and transformation using Power Query:
 - Handled missing values
 - Corrected data types
@@ -85,7 +85,7 @@ Performed extensive data cleaning and transformation using Power Query:
 
 ---
 
-# 📈 Key KPIs
+#  Key KPIs
 The dashboard tracks multiple business KPIs including:
 
 - Total Tickets
@@ -105,9 +105,9 @@ The dashboard tracks multiple business KPIs including:
 
 ---
 
-# 📂 Dashboard Pages
+#  Dashboard Pages
 
-## 1️⃣ Executive Overview
+## Executive Overview
 Provides a high-level overview of:
 - Total tickets
 - Resolution performance
@@ -118,7 +118,7 @@ Provides a high-level overview of:
 
 ---
 
-## 2️⃣ Agent Performance
+## Agent Performance
 Analyzes:
 - Top performing agents
 - Avg handling time
@@ -129,7 +129,7 @@ Analyzes:
 
 ---
 
-## 3️⃣ Customer Experience
+## Customer Experience
 Focuses on:
 - Customer satisfaction trends
 - Complaint analysis
@@ -140,7 +140,7 @@ Focuses on:
 
 ---
 
-## 4️⃣ Operations Control Center
+## Operations Control Center
 Monitors:
 - Open tickets
 - Workload distribution
@@ -151,7 +151,7 @@ Monitors:
 
 ---
 
-# 💡 Key Insights
+#  Key Insights
 - Phone channel generated the highest ticket volume.
 - Higher resolution time negatively impacted CSAT scores.
 - Morning shifts handled the largest operational workload.
@@ -160,7 +160,7 @@ Monitors:
 
 ---
 
-# 🚀 Recommendations
+#  Recommendations
 - Increase staffing during peak operational hours.
 - Improve resolution workflows for critical tickets.
 - Optimize response time to improve customer satisfaction.
@@ -169,7 +169,7 @@ Monitors:
 
 ---
 
-# 📸 Dashboard Preview
+#  Dashboard Preview
 
 ## Executive Overview
 ![Executive Overview](executive-overview.png)
@@ -191,7 +191,7 @@ Monitors:
 
 ---
 
-# 📁 Project Files
+#  Project Files
 - Power BI Dashboard (.pbix)
 - Dashboard screenshots
 - Data model structure
@@ -202,6 +202,6 @@ Monitors:
 
 ---
 
-# 👤 Author
+#  Author
 Ahmed Mohamed  
 Data Analyst | Power BI | SQL | Python
