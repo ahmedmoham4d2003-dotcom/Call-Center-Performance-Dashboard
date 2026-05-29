@@ -205,3 +205,9 @@ Monitors:
 #  Author
 Ahmed Mohamed  
 Data Analyst | Power BI | SQL | Python
+
+LinkedIn:
+https://www.linkedin.com/in/ahmed-mohamed-data-analysis
+
+GitHub:
+https://github.com/ahmedmoham4d2003-dotcom
